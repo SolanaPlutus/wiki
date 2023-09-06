@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Solana Plutus
+sidebar_label: Welcome
 ---
 
 # Welcome to Solana Plutus
