@@ -1,7 +1,7 @@
 ---
 sidebar_position: 30
 title: TitanWatch
-sidebar_label: TitanWatch
+sidebar_label: TitanWatch – On-Chain Insights
 ---
 
 # TitanWatch
