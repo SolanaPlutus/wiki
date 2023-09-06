@@ -16,7 +16,7 @@ const FeatureList = [
         Solana Plutus: Comprehensive defense Solana Community.
       </>
     ),
-    url: '/docs/overview/index',
+    url: '/docs/overview',
   },
   {
     title: 'Ecosystem',
@@ -30,7 +30,7 @@ const FeatureList = [
         Our ecosystem & instruments
       </>
     ),
-    url: '/docs/ecosystem/index',
+    url: '/docs/ecosystem',
   },
   {
     title: 'Developers',
@@ -44,7 +44,7 @@ const FeatureList = [
        Developers
       </>
     ),
-    url: '/docs/developers/index',
+    url: '/docs/developers',
   },
   {
     title: 'Tokenomics',
@@ -58,7 +58,7 @@ const FeatureList = [
         Tokenomics
       </>
     ),
-    url: '/docs/tokenomic/index',
+    url: '/docs/tokenomic',
   },
   
  
