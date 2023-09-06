@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome to ${siteConfig.title}`}
-      description="Solana Plutus wiki">
+      description="Solana Plutus Wiki">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
