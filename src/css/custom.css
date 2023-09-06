@@ -57,3 +57,10 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 [data-theme="dark"] .header-x-link:before {background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 22"><path d="M18.901 0h3.68l-8.04 9.19L24 21.693h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 .001h7.594l5.243 6.932L18.901 0zM17.61 19.491h2.039L6.486 2.087H4.298L17.61 19.491z" fill="%23fff"/></svg>') no-repeat center;}
 .header-x-link:before {background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 22"><path d="M18.901 0h3.68l-8.04 9.19L24 21.693h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 .001h7.594l5.243 6.932L18.901 0zM17.61 19.491h2.039L6.486 2.087H4.298L17.61 19.491z" fill="%23070707"/></svg>') no-repeat center;}
 
+@media (min-width: 997px) {
+  
+  .menu_SIkG {padding: .1rem !important;} 
+  .menu__link {padding-right:0px !important;}
+  .menu__link {padding-left:6px !important;}
+
+}
