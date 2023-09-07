@@ -60,7 +60,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 @media (min-width: 997px) {
   
   .menu_SIkG {padding: .2rem !important;} 
-  .menu__link {padding-right:0px !important;}
-  .menu__link {padding-left:6px !important;}
+  .menu__link {font-size: 15px; padding-right:0px !important; padding-left:6px !important;}
 
 }
