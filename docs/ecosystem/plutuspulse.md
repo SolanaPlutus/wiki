@@ -5,4 +5,4 @@ sidebar_label: PlutusPulse – Leaderboard
 ---
 
 # PlutusPulse
-Token Leaderboard
+Token & NFTs Leaderboard
