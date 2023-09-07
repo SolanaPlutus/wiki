@@ -58,7 +58,7 @@ const FeatureList = [
         Tokenomics
       </>
     ),
-    url: '/docs/tokenomic',
+    url: '/docs/tokenomics',
   },
   
  
