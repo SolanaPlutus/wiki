@@ -15,6 +15,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   organizationName: 'SolanaPlutus', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
 
+  headTags: [
+    // Declare a <link> preconnect tag
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://solp.cloud',
+        crossorigin: 'anonymous',
+      },
+    },
+  ],
+
+
   presets: [
     [
       '@docusaurus/preset-classic',
